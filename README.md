@@ -1,1 +1,1 @@
-# csc490-Kvasir
+# csc490 Kvasir dataset
